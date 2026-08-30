@@ -1,0 +1,43 @@
+# MIoT Secure Project - Requirements
+
+# Core dashboard
+streamlit==1.38.0
+firebase-admin==6.5.0
+python-dotenv==1.0.1
+
+# Data & ML
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+joblib==1.4.2
+
+# Visualization
+plotly==5.23.0
+
+# Attack simulation
+requests==2.32.3
+
+# Testing & Dev tools
+pytest==8.3.2
+pylint==3.2.5
+black==24.8.0
+isort==5.13.2
+jupyterlab==4.2.4
+
+# Logging & utils
+rich==13.8.0
+python-dateutil==2.9.0.post0
+
+# Optional crypto (if simulating RSA/HMAC in Python)
+pycryptodome==3.20.0
+
+streamlit==1.38.0
+firebase-admin==6.5.0
+python-dotenv==1.0.1
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+joblib==1.4.2
+plotly==5.23.0
+matplotlib==3.9.1
+requests==2.32.3
